@@ -1,0 +1,2 @@
+# filteradblock
+filter adblock
