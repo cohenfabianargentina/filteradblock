@@ -1,4 +1,4 @@
-
+||api.jquery.com/dblclick/^
 ||b005.mtahost.net^
 ||gamesrepacks.com^
 ||sportnews.to^
@@ -405,3 +405,4 @@
 ||dmeane.com^
 ||dmeane.com^
 $domain=tunovelaligera.com
+||*./dblclick/^
