@@ -1,19 +1,9 @@
 
 ||b005.mtahost.net^
-/assets/js/advertisement.js$~third-party
-/js/ads.js|$script,~third-party,domain=~internethaber.com|~knaqu.tv
-/js/advert.js$~third-party
-/jannah/*js/advertisement.js|$~third-party
-/themes/flow/frontend_assets/js/advertisement.js|$~third-party
-!
-/wp-content/plugins/popupbuilder-adblock/*
-!
-! "deblocker" common rule
-/wp-content/plugins/deblocker/js/deblocker.min*.js$~third-party
-/wp-content/plugins/deblocker/js/ads.min.js$domain=tunovelaligera.com
-||gamesrepacks.com/wp-content/plugins/deblocker/$important
-||sportnews.to/*wp-content/plugins/deblocker/$important
-||stackpathdns.com/wp-content/plugins/deblocker/js/deblocker.min.js||b00st.biz^
+||gamesrepacks.com^
+||sportnews.to^
+||stackpathdns.com^
+||b00st.biz^
 ||b2c-mail.com^
 ||babyd0ll.com^
 ||babz.info^
@@ -414,3 +404,4 @@
 ||dlbdirect.com^
 ||dmeane.com^
 ||dmeane.com^
+$domain=tunovelaligera.com
