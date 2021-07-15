@@ -404,5 +404,7 @@
 ||dlbdirect.com^
 ||dmeane.com^
 ||dmeane.com^
-$domain=tunovelaligera.com
 ||*./dblclick/^
+||*.%3A%2F%2Fapi.jquery.com%2Fdblclick%2F
+$domain=tunovelaligera.com
+
