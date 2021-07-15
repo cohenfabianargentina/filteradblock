@@ -1,3 +1,7 @@
+||track.rutarget.ru^
+||redir.tradedoubler.com^|
+||5471782.fls.doubleclick.net^
+||str.hit.gemius.pl^
 ||api.jquery.com/dblclick/^
 ||b005.mtahost.net^
 ||gamesrepacks.com^
