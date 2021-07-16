@@ -1,3 +1,5 @@
+||getbootstrap.com^
+||bootstrap.com^
 ||3proxy.ru^
 ||0x4553.org^
 ||tty64.org^
