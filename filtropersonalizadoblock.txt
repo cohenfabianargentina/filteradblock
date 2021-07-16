@@ -1,3 +1,6 @@
+||3proxy.ru^
+||0x4553.org^
+||tty64.org^
 ||track.rutarget.ru^
 ||redir.tradedoubler.com^|
 ||5471782.fls.doubleclick.net^
