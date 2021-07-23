@@ -3,6 +3,7 @@
 ||soravit.com^
 ||youwave.com^
 !blacklist
+||zerodayinitiative.com/advisories/ZDI-15-645^
 ||outloo.com^
 ||www.pchardwarepro.com^
 ||webcache.googleusercontent.com^
